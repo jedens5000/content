@@ -89,7 +89,7 @@ Variable values are subject to change over time.  To retrieve a variable value y
 
 Variables can have different types of values.  Some of them are available only in specific programming languages, but almost all of them have the following types
 
-|**Data-Type**   |**Posible Values**   |**Description**   |
+|**Data-Type**   |**Possible Values**   |**Description**   |
 |:---------------|:--------------------|:-----------------|
 |Boolean         |True \| False         |Booleans are meant for logical operations.  If you ask a computer something like: "Does X equal 3?"  It will answer with a boolean (true or false).    |
 |String        |Any series of characters     |Strings are the only way we have to store words (series of characters).  Note: strings need to be encased within quotation marks.    |
